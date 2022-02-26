@@ -1,4 +1,4 @@
 - 🌱 Learning competitive programming
 - ⚒️ C++/PHP/Javascript/Python
-- 😅 Current level:ShaBi
+- 😅 Current level: ShaBi
 - 🐕 Pronouns: it
